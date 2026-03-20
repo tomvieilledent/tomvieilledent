@@ -1,18 +1,25 @@
-# Hi, I'm Tom Vieilledent
+<h1 align="center">Tom Vieilledent</h1>
 
-First-year student at Holberton School and full-stack developer in training.
-I build frontend and backend projects with a strong focus on clean code, API design, and practical product development.
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=First-year+Holberton+School+student;Full-Stack+Developer+in+Training;Frontend+%2B+Backend+Builder;Clean+Code+%7C+API+Design+%7C+Testing" alt="Typing animation" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tomvieilledent&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=tomvieilledent&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+	<img src="https://img.shields.io/badge/Holberton-First%20Year-E10098?style=for-the-badge" alt="Holberton" />
+	<img src="https://img.shields.io/badge/Focus-Full%20Stack-0A66C2?style=for-the-badge" alt="Focus" />
+</p>
 
 ## About Me
 
-- Full-stack profile: Frontend + Backend
-- First-year student at Holberton School
-- Interested in web apps, APIs, and scalable architectures
-- Focused on testing, maintainability, and software quality
+I am a first-year Holberton School student building full-stack applications with a practical, product-focused mindset.
 
-## Tech Stack
+- Frontend + Backend developer in training
+- Strong interest in web applications, APIs, and software architecture
+- Focused on clean code, maintainability, and testing
+- Learning by building real projects end-to-end
+
+## Tech Toolbox
 
 ### Languages and Frameworks
 
@@ -23,7 +30,7 @@ I build frontend and backend projects with a strong focus on clean code, API des
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### Tools
+### Tools and Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -31,28 +38,39 @@ I build frontend and backend projects with a strong focus on clean code, API des
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
+## GitHub Highlights
+
+<p align="center">
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=tomvieilledent&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomvieilledent&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+	<img src="https://streak-stats.demolab.com?user=tomvieilledent&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
 ## Holberton Projects
 
-- [holbertonschool-hbnb](https://github.com/tomvieilledent/holbertonschool-hbnb): Full-stack web project with REST API, JWT auth, Swagger, and pytest.
-- [holbertonschool-higher_level_programming](https://github.com/tomvieilledent/holbertonschool-higher_level_programming): Python and JavaScript foundations, OOP, testing, and data structures.
-- [holbertonschool-low_level_programming](https://github.com/tomvieilledent/holbertonschool-low_level_programming): C programming, memory management, pointers, and system-level fundamentals.
-- [holbertonschool-printf](https://github.com/tomvieilledent/holbertonschool-printf): Custom implementation of printf in C.
+- [holbertonschool-hbnb](https://github.com/tomvieilledent/holbertonschool-hbnb): Full-stack application with REST API, JWT authentication, Swagger docs, and pytest coverage.
+- [holbertonschool-higher_level_programming](https://github.com/tomvieilledent/holbertonschool-higher_level_programming): Python and JavaScript fundamentals, OOP, and test-driven practice.
+- [holbertonschool-low_level_programming](https://github.com/tomvieilledent/holbertonschool-low_level_programming): C programming, memory management, pointers, and low-level systems concepts.
+- [holbertonschool-printf](https://github.com/tomvieilledent/holbertonschool-printf): Custom printf implementation in C.
 - [holbertonschool-simple_shell](https://github.com/tomvieilledent/holbertonschool-simple_shell): Unix shell project in C.
-- [holbertonschool-sorting_algorithms](https://github.com/tomvieilledent/holbertonschool-sorting_algorithms): Classic sorting algorithms and complexity analysis in C.
-- [holbertonschool-binary_trees](https://github.com/tomvieilledent/holbertonschool-binary_trees): Binary tree implementations and traversal algorithms.
+- [holbertonschool-sorting_algorithms](https://github.com/tomvieilledent/holbertonschool-sorting_algorithms): Sorting algorithms and complexity analysis.
+- [holbertonschool-binary_trees](https://github.com/tomvieilledent/holbertonschool-binary_trees): Binary tree structures and traversal algorithms.
 - [holbertonschool-web_front_end](https://github.com/tomvieilledent/holbertonschool-web_front_end): Front-end projects with HTML, CSS, and JavaScript.
 
-## Current Focus
+## What I Am Building Now
 
-- Building full-stack applications (API + UI)
-- Improving architecture and testing practices
-- Writing technical documentation and clean project structure
+- Full-stack applications that connect backend APIs to clean frontend experiences
+- Better architecture and testing habits for production-style code
+- Clear technical documentation and readable project structures
 
-## Goals
+## 2026 Goals
 
-- Become a strong full-stack software engineer
-- Contribute to impactful, user-focused products
-- Keep improving through real-world projects and collaboration
+- Become a strong, reliable full-stack software engineer
+- Deliver projects with clear business impact and strong user experience
+- Keep improving through feedback, collaboration, and real-world coding
 
 ## Connect
 
@@ -60,4 +78,4 @@ I build frontend and backend projects with a strong focus on clean code, API des
 
 ---
 
-Open to collaboration, feedback, and project opportunities.
+If you are working on a cool project, I would love to connect and collaborate.
