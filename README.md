@@ -6,7 +6,7 @@
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=tomvieilledent&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-	<img src="https://img.shields.io/badge/Holberton-First%20year-E10098?style=flat-square" alt="Holberton School" />
+	<img src="https://img.shields.io/badge/Holberton-Second%20year%20%C2%B7%20Fullstack%20specialization-E10098?style=flat-square" alt="Holberton School" />
 	<img src="https://img.shields.io/badge/Location-France-0A66C2?style=flat-square" alt="Location" />
 </p>
 
@@ -14,8 +14,8 @@
 
 ## About
 
-First-year Software Engineering student at Holberton School, focused on full-stack
-web development. I build applications end to end — REST APIs, relational data models
+Second-year Software Engineering student at Holberton School, in the full-stack
+specialization year, focused on full-stack web development. I build applications end to end — REST APIs, relational data models
 and reactive front-ends — with attention to testing, readable structure and
 continuous integration.
 
