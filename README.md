@@ -86,14 +86,6 @@ Docker and CI trying to hold it together.
 
 ---
 
-## 📊 GitHub in numbers
-
-<p align="center">
-	<img src="./metrics.svg" alt="GitHub metrics" />
-</p>
-
----
-
 ## 🔭 What I'm building right now
 
 | Project | What it is | Stack |
